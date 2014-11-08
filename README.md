@@ -11,8 +11,6 @@ The goal of this lab is to teach about how Atoms interact with each other to cre
 
 ![Water](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Water-3D-balls.png/640px-Water-3D-balls.png)
 
-![Water](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2006-02-13_Drop-impact.jpg/621px-2006-02-13_Drop-impact.jpg)
-
 Water is made of H20, two hydrogen atoms and one oxygen atom.
 
 Your goal is to create atoms that will make one molecule of the compound of water.
