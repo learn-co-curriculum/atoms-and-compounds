@@ -3,7 +3,7 @@ tags: chemistry, object orientation
 language: ruby
 ---
 
-# Atoms to Combounds via Object Orientation
+# Atoms to Compounds via Object Orientation
 
 The goal of this lab is to teach about how Atoms interact with each other to create compounds. Your goal is to build an Object Model where `Atom` has electrons and `Compound` has atoms.
 
