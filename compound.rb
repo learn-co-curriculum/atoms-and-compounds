@@ -1,5 +1,11 @@
 class Compound
   attr_accessor :atoms
+
+  def initialize(*atoms)
+    @atoms = []
+    atoms.map{|atom| @atoms.push(atom)}
+  end
+
   COMMON_COMPOUNDS = {
     "Water" => "HHO"
   }
