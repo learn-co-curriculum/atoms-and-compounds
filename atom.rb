@@ -8,8 +8,16 @@ class Atom
     @electrons = opts[:electrons]
   end
 
-  def name
+  def common_name
     ELEMENTS.select{|key, value| value[:number] == electrons}.values[0][:name]
+  end
+
+  def name
+    ELEMENTS.select{|key, value| value[:number] == electrons}.keys[0].to_s
+  end
+
+  def molar_mass
+    ELEMENTS.select{|key, value| value[:number] == electrons}.values[0][:molar]
   end
 
 end
