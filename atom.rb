@@ -20,4 +20,8 @@ class Atom
     ELEMENTS.select{|key, value| value[:number] == electrons}.values[0][:molar]
   end
 
+  def number
+    @electrons
+  end
+
 end
