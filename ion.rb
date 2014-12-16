@@ -13,8 +13,3 @@ class Ion < Atom
     ELEMENTS.select{|key, value| value[:number] == electrons}.keys[0].to_s + @charge
   end
 end
-
-
-ion = Ion.new("+", {:electrons => 2})
-puts ion.common_name
-puts ion.name
