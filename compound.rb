@@ -11,10 +11,10 @@ class Compound
   }
 
   def elements
-    atoms.flatten.collect{|a| a.name}.sort.join
+    atoms.flatten.collect{|a| a.name}.sort.join.to_s
   end
 
-  def name
+  def common_name
     COMMON_COMPOUNDS.invert[elements]
   end
 
