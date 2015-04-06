@@ -7,6 +7,8 @@ language: ruby
 
 The goal of this lab is to teach about how Atoms interact with each other to create compounds. Your goal is to build an Object Model where `Atom` has electrons and `Compound` has atoms.
 
+There's a beautiful symmetry between chemistry and programming.
+
 ## Describing Water
 
 ![Water](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Water-3D-balls.png/640px-Water-3D-balls.png)
