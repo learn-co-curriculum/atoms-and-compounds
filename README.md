@@ -1,7 +1,4 @@
----
-tags: chemistry, object orientation
-language: ruby
----
+
 
 # Atoms to Compounds via Object Orientation
 
