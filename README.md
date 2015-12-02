@@ -35,3 +35,5 @@ end
 ```
 
 Have fun programming some compounds!!!
+
+<a href='https://learn.co/lessons/atoms-and-compounds' data-visibility='hidden'>View this lesson on Learn.co</a>
