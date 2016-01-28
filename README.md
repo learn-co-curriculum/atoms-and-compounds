@@ -36,4 +36,4 @@ end
 
 Have fun programming some compounds!!!
 
-<a href='https://learn.co/lessons/atoms-and-compounds' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/atoms-and-compounds' title='Atoms to Compounds via Object Orientation'>Atoms to Compounds via Object Orientation</a> on Learn.co and start learning to code for free.</p>
